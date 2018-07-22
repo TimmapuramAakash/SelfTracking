@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SelfTracking</string>
+    <string name="title_activity_self_track">Map</string>
+</resources>
